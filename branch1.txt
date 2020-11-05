@@ -1,1 +1,3 @@
 thu tao ra mot branch
+
+gio bat dau merge 2 branch lai thanh 1
